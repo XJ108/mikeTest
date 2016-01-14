@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         }
     }
 
-    let array111 : [Int] = [1, 2, 3]
+    let array111 : [Int] = [1, 2, 3,4,5,6,7,8,9]
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
