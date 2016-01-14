@@ -38,6 +38,9 @@ class ViewController: UIViewController {
         print("wwwww")
     }
     
+    func fun2() -> Void {
+        print("afdsfds")
+    }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
