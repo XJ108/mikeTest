@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         }
     }
 
+    let array111 : [Int] = [1, 2, 3]
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
