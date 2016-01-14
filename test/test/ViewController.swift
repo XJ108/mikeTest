@@ -14,8 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        var array : [Int] = [1, 2, 3]
+        let array : [Int] = [1, 2, 3]
         print(array)
+        
+        func fun1() -> Void {
+            print("wwwww")
+        }
     }
 
     override func didReceiveMemoryWarning() {
