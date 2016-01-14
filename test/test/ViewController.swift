@@ -22,12 +22,12 @@ class ViewController: UIViewController {
         }
     }
 
-<<<<<<< HEAD
+
     let array111 : [Int] = [1, 2, 3,4,5,6,7,8,9]
-=======
-    let array111 : [Int] = [1, 2, 3, 4, 5]
->>>>>>> 68726463e7e95a92a9627d4ce38cff21c00b8c31
-    
+
+    let array1111 : [Int] = [1, 2, 3, 4, 5]
+
+    let array346346546 : [Int] = [1, 2, 3, 4, 5]
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
