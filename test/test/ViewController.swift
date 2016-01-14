@@ -34,7 +34,10 @@ class ViewController: UIViewController {
 
     let array1111 : [Int] = [1, 2, 3, 4, 5]
 
-    let array346346546 : [Int] = [1, 2, 3, 4, 5]
+    func fun1() -> Void {
+        print("wwwww")
+    }
+    
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
