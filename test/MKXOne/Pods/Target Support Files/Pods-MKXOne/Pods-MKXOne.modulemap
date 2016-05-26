@@ -1,0 +1,6 @@
+framework module Pods_MKXOne {
+  umbrella header "Pods-MKXOne-umbrella.h"
+
+  export *
+  module * { export * }
+}

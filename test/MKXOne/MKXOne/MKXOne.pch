@@ -1,0 +1,20 @@
+//
+//  MKXOne.pch
+//  MKXOne
+//
+//  Created by mike on 16/5/5.
+//  Copyright © 2016年 mike. All rights reserved.
+//
+
+#ifndef MKXOne_pch
+#define MKXOne_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "APPHeader.h"
+#import "KEYHeader.h"
+#import "THRHeader.h"
+#import "URLHeader.h"
+
+
+#endif /* MKXOne_pch */
